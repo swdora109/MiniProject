@@ -13,6 +13,7 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 - [How to Contribute](#how-to-contribute-)
 - [Acknowledgments](#acknowledgments-)
 
+
 ## Key Features 🎨
 ### Scoring Feedback
 - Analyze user-written sentences and provide scores (on a 10.0 scale) for:
@@ -31,6 +32,7 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 
 ### Modular and Extensible Design
 - Customize and expand the tutor for various subjects and languages with ease.
+
 
 ## Installation 🛠️
 ### Prerequisites
@@ -54,12 +56,14 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
     ```bash
     python main.py
     ```
+
     
 ## Usage 🔧
 1. Input a sentence into the tutor.
 2. Receive scores (on a 10.0 scale) for vocabulary, coherence, clarity, and overall quality.
 3. Review explanations for grammar issues in Korean and view suggested corrections.
 4. Use the text-to-speech feature to listen to the corrected sentence and practice pronunciation.
+
 
 ## Example 📝
 <img width="1255" alt="image" src="https://github.com/user-attachments/assets/607ecb88-bf6e-4b34-906a-3c349f41d0fe" />
@@ -79,6 +83,7 @@ She don't like' should be corrected to 'doesn't'.\
 - **Scores**: Vocabulary: 6 / 10, Coherence: 5 / 10, Clarity: 5 / 10, Overall score: 5 / 10
 - **Text-to-Speech**: Plays audio of the corrected sentence.
 
+
 ## What I Learned 🌟
 Through developing this AI Tutor project, I have gained valuable insights and skills, including:
 - **AI and Language Processing**: Understanding the intricacies of natural language processing (NLP) and how to leverage LangChain for building a conversational AI.
@@ -89,13 +94,16 @@ Through developing this AI Tutor project, I have gained valuable insights and sk
 
 **As an experienced language teacher with over four years of teaching the Korean language, working on this project has been particularly fulfilling. It has allowed me to contribute to the development of an advanced educational tool aimed at enhancing language acquisition. This experience has not only honed my technical skills but also expanded my understanding of how AI can be effectively applied to real-world language learning challenges.**
 
-## Technologies Used 💪
+
+## Technologies Used 🛠️
 - LangChain: For building conversational AI.
 - Python: For backend logic and processing.
 - Text-to-Speech API: For generating audio output.
 
+
 ## Limitations and Contribution Notes 📋
 This project requires private API keys for certain functionalities (e.g., text-to-speech services). As a result, contributions may be limited unless contributors have access to the required API keys.
+
 
 ## How to Contribute 🎓
 We welcome contributions to improve AI Tutor! To get started:
@@ -114,9 +122,11 @@ We welcome contributions to improve AI Tutor! To get started:
     ```
 5. Open a pull request for review.
 
+
 ## Acknowledgments 🌟
 - LangChain
 - Contributors and the open-source community
+
 
 Thank you for exploring the AI Tutor project! We hope it aids in enhancing language learning experiences.
 
