@@ -1,6 +1,6 @@
 # AI Tutor: An Interactive Language Learning Tool 🌐
 
-Welcome to the AI Tutor project! This repository contains the code for an AI-powered tutoring system built using LangChain. The system is designed to enhance language learning for Korean-speaking English learners through personalized feedback and advanced text-to-speech capabilities.
+Welcome to the AI Tutor project! This repository contains the code for an AI-powered tutoring system built using LangChain. The system is designed to enhance language learning for Korean-speaking English learners through personalized feedback and advanced text-to-speech capabilities. The project is powered by the ChatGPT API and integrates GPT-4 (August 2024 Version) to provide state-of-the-art language processing and personalized grammar correction. <br> <br>
 
 
 ## Table of Contents
@@ -77,9 +77,17 @@ Through developing this AI Tutor project, I have gained valuable insights and sk
 
 
 ## Technologies Used 🛠️
-- LangChain: For building conversational AI.
-- Python: For backend logic and processing.
-- Text-to-Speech API: For generating audio output. <br> <br>
+- LangChain Framework \
+Enables AI workflow orchestration and handles complex conversations with advanced prompt and chain management.
+
+- Python 3.9+ \
+Powers the application logic, async request handling, and data processing with modern Python features.
+
+- Text-to-Speech Integration \
+Provides speech synthesis with support for multiple languages.
+
+- GPT-4 (August 2024 Version) \
+Delivers accurate grammar correction and natural language understanding with enhanced contextual awareness. <br> <br>
 
 
 ## Limitations and Contribution Notes 📋
