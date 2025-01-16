@@ -12,7 +12,8 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 - [Technologies Used](#technologies-used-)
 - [Limitations and Contribution Notes](#limitations-and-contribution-notes-)
 - [How to Contribute](#how-to-contribute-)
-- [Acknowledgments](#acknowledgments-)  
+- [Acknowledgments](#acknowledgments-)
+  <br> <br>
 
 
 ## Key Features 🎨
@@ -32,7 +33,7 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 - Improve language learning with auditory support.
 
 ### Modular and Extensible Design
-- Customize and expand the tutor for various subjects and languages with ease.
+- Customize and expand the tutor for various subjects and languages with ease. <br> <br>
 
 
 ## Installation 🛠️
@@ -56,14 +57,14 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 4. Run the application:
     ```bash
     python main.py
-    ```
-
+    ``` 
+<br>
 
 ## Usage 🔧
 1. Input a sentence into the tutor.
 2. Receive scores (on a 10.0 scale) for vocabulary, coherence, clarity, and overall quality.
 3. Review explanations for grammar issues in Korean and view suggested corrections.
-4. Use the text-to-speech feature to listen to the corrected sentence and practice pronunciation.
+4. Use the text-to-speech feature to listen to the corrected sentence and practice pronunciation. <br> <br>
 
 
 ## Example 📝
@@ -82,7 +83,7 @@ She don't like to eat apples because they doesn't taste good to her and she thin
 
 - **Corrected Sentence**: She doesn't like to eat apples because they don't taste good to her and she thinks they are too hard to chew, but her brother says that apples are his favorite fruit and he always tells her that she should try to eat them more often.
 - **Scores**: Vocabulary: 6 / 10, Coherence: 5 / 10, Clarity: 5 / 10, Overall score: 5 / 10
-- **Text-to-Speech**: Plays audio of the corrected sentence.
+- **Text-to-Speech**: Plays audio of the corrected sentence. <br> <br>
 
 
 ## What I Learned 🌟
@@ -93,17 +94,17 @@ Through developing this AI Tutor project, I have gained valuable insights and sk
 - **Modular and Extensible Design**: Designing the system in a way that allows for easy customization and expansion to other subjects and languages.
 - **Prompt Engineering and Parameter Adjustment**: Recognizing the critical importance of crafting effective prompts and fine-tuning parameters to achieve optimal AI performance and user interaction.
 
-**As an experienced language teacher with over four years of teaching the Korean language, working on this project has been particularly fulfilling. It has allowed me to contribute to the development of an advanced educational tool aimed at enhancing language acquisition. This experience has not only honed my technical skills but also expanded my understanding of how AI can be effectively applied to real-world language learning challenges.**
+**As an experienced language teacher with over four years of teaching the Korean language, working on this project has been particularly fulfilling. It has allowed me to contribute to the development of an advanced educational tool aimed at enhancing language acquisition. This experience has not only honed my technical skills but also expanded my understanding of how AI can be effectively applied to real-world language learning challenges.** <br> <br>
 
 
 ## Technologies Used 🛠️
 - LangChain: For building conversational AI.
 - Python: For backend logic and processing.
-- Text-to-Speech API: For generating audio output.
+- Text-to-Speech API: For generating audio output. <br> <br>
 
 
 ## Limitations and Contribution Notes 📋
-This project requires private API keys for certain functionalities (e.g., text-to-speech services). As a result, contributions may be limited unless contributors have access to the required API keys.
+This project requires private API keys for certain functionalities (e.g., text-to-speech services). As a result, contributions may be limited unless contributors have access to the required API keys. <br> <br>
 
 
 ## How to Contribute 🎓
@@ -121,7 +122,7 @@ We welcome contributions to improve AI Tutor! To get started:
     ```bash
     git push origin feature-name
     ```
-5. Open a pull request for review.
+5. Open a pull request for review. <br> <br>
 
 
 ## Acknowledgments 🤝
