@@ -5,7 +5,6 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 
 ## Table of Contents
 - [Key Features](#key-features-)
-- [Installation](#installation-)
 - [Usage](#usage-)
 - [Example](#example-)
 - [What I Learned](#what-i-learned-)
@@ -34,31 +33,6 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 
 ### Modular and Extensible Design
 - Customize and expand the tutor for various subjects and languages with ease. <br> <br>
-
-
-## Installation 🛠️
-### Prerequisites
-- Python 3.8 or later
-- Pip for package management
-
-### Steps to Set Up
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/swdora109/ai-tutor.git
-    cd ai-tutor
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Set up environment variables:
-    - Create a `.env` file in the root directory.
-    - Add your API keys or other configuration details.
-4. Run the application:
-    ```bash
-    python main.py
-    ``` 
-<br>
 
 ## Usage 🔧
 1. Input a sentence into the tutor.
@@ -89,6 +63,7 @@ She don't like to eat apples because they doesn't taste good to her and she thin
 
 #### Output Screen 🖥️
 <img width="1255" alt="image" src="https://github.com/user-attachments/assets/607ecb88-bf6e-4b34-906a-3c349f41d0fe" />
+<br> <br>
 
 ## What I Learned 🌟
 Through developing this AI Tutor project, I have gained valuable insights and skills, including:
