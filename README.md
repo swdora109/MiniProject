@@ -2,6 +2,7 @@
 
 Welcome to the AI Tutor project! This repository contains the code for an AI-powered tutoring system built using LangChain. The system is designed to enhance language learning for Korean-speaking English learners through personalized feedback and advanced text-to-speech capabilities.
 
+
 ## Table of Contents
 - [Key Features](#key-features-)
 - [Installation](#installation-)
@@ -11,7 +12,7 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 - [Technologies Used](#technologies-used-)
 - [Limitations and Contribution Notes](#limitations-and-contribution-notes-)
 - [How to Contribute](#how-to-contribute-)
-- [Acknowledgments](#acknowledgments-)
+- [Acknowledgments](#acknowledgments-)  
 
 
 ## Key Features 🎨
@@ -57,7 +58,7 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
     python main.py
     ```
 
-    
+
 ## Usage 🔧
 1. Input a sentence into the tutor.
 2. Receive scores (on a 10.0 scale) for vocabulary, coherence, clarity, and overall quality.
@@ -72,12 +73,12 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 She don't like to eat apples because they doesn't taste good to her and she think they are too hard to chew, but her brother say that apples are his favorite fruit and he always tell her that she should try to eat them more often.
 
 ### Output:
-- **Grammar Issue**: \
-She don't like' should be corrected to 'doesn't'.\
-'they doesn't taste' should be corrected to 'don't'.\
-'she think' should be corrected to 'thinks'.\
-'her brother say' should be corrected to 'says'.\
-'he always tell' should be corrected to 'tells'.
+- **Grammar Issue**: 
+  - 'She don't like' should be corrected to 'doesn't'.
+  - 'they doesn't taste' should be corrected to 'don't'.
+  - 'she think' should be corrected to 'thinks'.
+  - 'her brother say' should be corrected to 'says'.
+  - 'he always tell' should be corrected to 'tells'.
 
 - **Corrected Sentence**: She doesn't like to eat apples because they don't taste good to her and she thinks they are too hard to chew, but her brother says that apples are his favorite fruit and he always tells her that she should try to eat them more often.
 - **Scores**: Vocabulary: 6 / 10, Coherence: 5 / 10, Clarity: 5 / 10, Overall score: 5 / 10
@@ -123,10 +124,11 @@ We welcome contributions to improve AI Tutor! To get started:
 5. Open a pull request for review.
 
 
-## Acknowledgments 🌟
+## Acknowledgments 🤝
 - LangChain
 - Contributors and the open-source community
 
 
 Thank you for exploring the AI Tutor project! We hope it aids in enhancing language learning experiences.
+
 
