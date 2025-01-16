@@ -68,7 +68,9 @@ Welcome to the AI Tutor project! This repository contains the code for an AI-pow
 
 
 ## Example 📝
-<img width="1255" alt="image" src="https://github.com/user-attachments/assets/607ecb88-bf6e-4b34-906a-3c349f41d0fe" />
+
+#### Initial Screen 🖥️
+<img width="1250" alt="main" src="https://github.com/user-attachments/assets/1a0fe1f5-2716-45bc-b446-94ba49a31235" />
 
 ### Input:
 She don't like to eat apples because they doesn't taste good to her and she think they are too hard to chew, but her brother say that apples are his favorite fruit and he always tell her that she should try to eat them more often.
@@ -85,6 +87,8 @@ She don't like to eat apples because they doesn't taste good to her and she thin
 - **Scores**: Vocabulary: 6 / 10, Coherence: 5 / 10, Clarity: 5 / 10, Overall score: 5 / 10
 - **Text-to-Speech**: Plays audio of the corrected sentence. <br> <br>
 
+#### Output Screen 🖥️
+<img width="1255" alt="image" src="https://github.com/user-attachments/assets/607ecb88-bf6e-4b34-906a-3c349f41d0fe" />
 
 ## What I Learned 🌟
 Through developing this AI Tutor project, I have gained valuable insights and skills, including:
